@@ -1,0 +1,8 @@
+.gradient{
+    height: 700px;
+    width: 700px;
+    background: url('image/1.jpg'), url('image/2.jpg'), url('image/3.jpg'), lightblue;
+    background-size: 200px 200px , 100px 100px , 150px 150px;
+    background-repeat: no-repeat;
+    background-position: center, left top, right top;
+}

@@ -1,0 +1,17 @@
+.gradient{
+    background: url('image/2.jpg');
+    height: 800px;
+    width: 1600px;
+}
+
+.text{
+    height: 800px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+}
+
+h1{
+    margin-left: 200px;
+}
